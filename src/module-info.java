@@ -5,5 +5,5 @@
  * @author saksh
  *
  */
-module Arrays {
+module Exception_handling {
 }
