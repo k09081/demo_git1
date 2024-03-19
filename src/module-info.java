@@ -5,5 +5,5 @@
  * @author saksh
  *
  */
-module Exception_handling {
+module Collectionexercise {
 }
